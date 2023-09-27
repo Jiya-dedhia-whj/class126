@@ -1,0 +1,62 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin : 0px;
+}
+
+body
+{
+   background-size: cover;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.note
+{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.speed_gif
+{
+    width : 300px;
+    height : 300px;
+    border-radius: 50%;
+}
+
+.volume_gif
+{
+    width : 300px;
+    height : 300px;
+    border-radius: 50%;
+}
+
+#speed
+{
+    font-size: 20px;
+    margin: 15px;
+}
+
+#volume
+{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.play_button
+{
+    font-size: 20px;
+    margin: 15px;
+    width: 130px;
+    font-weight: bold;
+}
