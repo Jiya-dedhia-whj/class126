@@ -60,3 +60,10 @@ body
     width: 130px;
     font-weight: bold;
 }
+
+canvas
+{
+    border: 5px solid lightblue;
+    border-radius: 20px;
+    margin: 10px;
+}
